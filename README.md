@@ -1,5 +1,8 @@
 # HR-Analysis-Dashboard
 
+![dashboard](https://github.com/agujalwar/HR-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard.png)
+
+
 * Conducted thorough data cleansing and transformation processes to ensure accuracy and reliability of HR data used in Power BI dashboards,
 * Developed a Power BI HR analytics dashboard offering comprehensive insights into employee demographics, attrition rates by department and education,
 income averages, age distribution, job satisfaction, and educational backgrounds, allowing HR professionals to make data-driven decisions and identify areas for
